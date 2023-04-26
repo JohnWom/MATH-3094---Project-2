@@ -17,5 +17,3 @@ The seeds are classified by type of seed. The types are specified as follows:
   3. Canadian
   
 The dataset can be found on Kaggle [here](https://www.kaggle.com/datasets/jmcaro/wheat-seedsuci?resource=download) and UC Irvine Machine Learning Repository [here](https://archive.ics.uci.edu/ml/datasets/seeds).
-
-Here we start by importing the necessary modules and data, and dividing the data into train and test sets.
